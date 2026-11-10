@@ -1,7 +1,7 @@
 {
   "ShortlinkBypass": {
     "version": "5.0",
-    "message": "<b>Sebelum Memperbarui Aplikasi Ini<br>Silahkan Hapus Data & Cache<br> Aplikasinya Agar Tidak Stuck",
+    "message": "<b>Jika Aplikasi Stuck Saat Diperbarui<br>Silahkan Hapus Data & Cache<br> Aplikasinya Agar Tidak Stuck",
     "link_download": "https://sfl.gl/E4sdu8H",
     "version_code": "5.0"
   }
